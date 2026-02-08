@@ -163,7 +163,7 @@ As interações geraram:
 - Fluxo de funcionalidades;
 - Ajustes de escopo focados em acessibilidade e simplicidade.
 
-(Imagens ou prints das interações podem ser encontrados na pasta `/assets`.)
+(Imagens, prints e vídeos das interações podem ser encontrados na pasta [assets](./assets).)
 
 ---
 
