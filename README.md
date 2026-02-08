@@ -1,3 +1,18 @@
+# App de Organização de Finanças Pessoais com IA (Vibe Coding)
+
+## Sobre o Projeto
+Este projeto foi desenvolvido como parte do desafio **Vibe Coding** da Digital Innovation One (DIO).
+
+O objetivo é criar o **conceito de um aplicativo de organização de finanças pessoais**, utilizando Inteligência Artificial como parceira criativa, por meio de prompts claros, conversacionais e bem estruturados.
+
+O foco do projeto **não está na implementação de código**, mas sim na construção de um produto conceitual, aplicando o pensamento de **Vibe Coding**, onde a IA é guiada pela intenção, contexto e criatividade.
+
+---
+
+> Projeto em desenvolvimento  
+> As próximas seções incluirão o PRD (Prompt Final), interações com a IA, resumo do app e reflexões sobre o processo.
+
+---
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
