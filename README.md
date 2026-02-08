@@ -198,6 +198,7 @@ O Vibe Coding se mostrou uma abordagem poderosa para explorar soluções inclusi
 ---
 
 
+
 ## Conteúdo original do desafio (DIO)
 ---
 # App de Organização de Finanças Pessoais com Vibe Coding
