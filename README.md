@@ -12,10 +12,11 @@ O aplicativo foi pensado como um **assistente financeiro conversacional**, acess
 
 ## Problema
 A maioria dos aplicativos financeiros atuais:
-- Utiliza linguagem técnica e pouco acessível;
-- Exige muitos passos, configurações e conhecimento prévio;
-- Não considera necessidades de acessibilidade;
-- Acaba gerando confusão, frustração e abandono.
+
+- Utiliza linguagem técnica e pouco acessível
+- Exige muitos passos, configurações e conhecimento prévio
+- Não considera necessidades de acessibilidade
+- Acaba gerando confusão, frustração e abandono
 
 Pessoas idosas, com deficiência ou com baixo letramento digital precisam de clareza, simplicidade e acolhimento, não de ferramentas complexas.
 
@@ -43,9 +44,10 @@ O aplicativo deve funcionar como um assistente, não como uma ferramenta técnic
 
 ### Objetivo do Produto
 Ajudar o usuário a responder, de forma clara e imediata:
-- Quanto dinheiro eu tenho agora;
-- Até quando esse dinheiro precisa durar;
-- Quanto posso gastar por dia sem faltar.
+
+- Quanto dinheiro eu tenho agora
+- Até quando esse dinheiro precisa durar
+- Quanto posso gastar por dia sem faltar
 
 ---
 
@@ -65,93 +67,94 @@ Ajudar o usuário a responder, de forma clara e imediata:
 
 ### Proposta de Valor
 Um aplicativo que:
-- Traduz números em frases simples;
-- Mostra apenas o essencial;
-- Orienta sem julgar;
-- Funciona mesmo sem conexão bancária;
-- Prioriza acessibilidade desde o início.
+
+- Traduz números em frases simples
+- Mostra apenas o essencial
+- Orienta sem julgar
+- Funciona mesmo sem conexão bancária
+- Prioriza acessibilidade desde o início
 
 ---
 
-### Escopo do MVP – Funcionalidades
+## Escopo do MVP – Funcionalidades
 
-**RF01 – Tela inicial com resumo financeiro**
-- Mostrar dinheiro disponível;
-- Informar até quando o dinheiro precisa durar;
-- Calcular gasto diário recomendado;
-- Exibir tudo em frases simples.
+### RF01 – Tela inicial com resumo financeiro
+- Mostrar dinheiro disponível
+- Informar até quando o dinheiro precisa durar
+- Calcular gasto diário recomendado
+- Exibir tudo em frases simples
 
 Exemplo:  
-“Você tem R$ 450 até o dia 30. Pode gastar cerca de R$ 15 por dia.”
+"Você tem R$ 450 até o dia 30. Pode gastar cerca de R$ 15 por dia."
 
 ---
 
-**RF02 – Registro de entrada de dinheiro**
-- Registro manual simples;
-- Fluxo em até 3 passos;
-- Categorias pré-definidas (salário, aposentadoria, ajuda, outros).
+### RF02 – Registro de entrada de dinheiro
+- Registro manual simples
+- Fluxo em até 3 passos
+- Categorias pré-definidas (salário, aposentadoria, ajuda, outros)
 
 ---
 
-**RF03 – Registro de gastos**
-- Botão principal “Gastei”;
-- Informar valor;
-- Categorias simples (comida, casa, remédios, transporte, lazer, outros).
+### RF03 – Registro de gastos
+- Botão principal "Gastei"
+- Informar valor
+- Categorias simples (comida, casa, remédios, transporte, lazer, outros)
 
 ---
 
-**RF04 – Alertas e avisos gentis**
-- Avisos quando o dinheiro pode acabar antes do fim do período;
-- Alertas de gastos fora do padrão;
-- Linguagem não punitiva;
-- Opção de ativar ou desativar alertas.
+### RF04 – Alertas e avisos gentis
+- Avisos quando o dinheiro pode acabar antes do fim do período
+- Alertas de gastos fora do padrão
+- Linguagem não punitiva
+- Opção de ativar ou desativar alertas
 
 ---
 
-**RF05 – Histórico simples**
-- Lista cronológica de entradas e gastos;
-- Exibição clara de data, valor e categoria;
-- Filtros básicos (hoje, semana, mês).
+### RF05 – Histórico simples
+- Lista cronológica de entradas e gastos
+- Exibição clara de data, valor e categoria
+- Filtros básicos (hoje, semana, mês)
 
 ---
 
-**RF06 – Acessibilidade básica**
-- Fonte ajustável;
-- Alto contraste;
-- Compatibilidade com leitores de tela;
-- Leitura por voz das informações principais.
+### RF06 – Acessibilidade básica
+- Fonte ajustável
+- Alto contraste
+- Compatibilidade com leitores de tela
+- Leitura por voz das informações principais
 
 ---
 
-### Requisitos Não Funcionais
+## Requisitos Não Funcionais
 
-**Usabilidade**
-- No máximo 3 níveis de navegação;
-- Botões grandes e bem espaçados;
-- Interface limpa e sem excesso de informação.
+### Usabilidade
+- No máximo 3 níveis de navegação
+- Botões grandes e bem espaçados
+- Interface limpa e sem excesso de informação
 
-**Linguagem**
-- Vocabulário simples;
-- Frases curtas;
-- Sem termos técnicos financeiros.
+### Linguagem
+- Vocabulário simples
+- Frases curtas
+- Sem termos técnicos financeiros
 
-**Acessibilidade**
-- Conformidade com WCAG nível AA;
-- Não depender apenas de cores para transmitir informações.
+### Acessibilidade
+- Conformidade com WCAG nível AA
+- Não depender apenas de cores para transmitir informações
 
-**Segurança e Privacidade**
-- Dados armazenados de forma segura;
-- Nenhuma venda ou compartilhamento de dados;
-- Opção clara para apagar todas as informações.
+### Segurança e Privacidade
+- Dados armazenados de forma segura
+- Nenhuma venda ou compartilhamento de dados
+- Opção clara para apagar todas as informações
 
 ---
 
-### Fora do Escopo do MVP
-- Integração bancária automática;
-- Gráficos avançados;
-- Metas financeiras complexas;
-- Educação financeira formal;
-- Publicidade ou recomendações comerciais.
+## Fora do Escopo do MVP
+- Integração bancária automática
+- Gráficos avançados
+- Metas financeiras complexas
+- Educação financeira formal
+- Publicidade ou recomendações comerciais
 
 ---
 
@@ -159,11 +162,12 @@ Exemplo:
 O conceito do aplicativo foi desenvolvido por meio de interações com ferramentas de IA (Copilot e/ou Lovable), utilizando prompts claros e intencionais baseados no PRD acima.
 
 As interações geraram:
-- Plano conceitual do MVP;
-- Fluxo de funcionalidades;
-- Ajustes de escopo focados em acessibilidade e simplicidade.
 
-(Imagens, prints e vídeos das interações podem ser encontrados na pasta [assets](./assets).)
+- Plano conceitual do MVP
+- Fluxo de funcionalidades
+- Ajustes de escopo focados em acessibilidade e simplicidade
+
+Imagens, prints e vídeos das interações podem ser encontrados na pasta [assets](./assets).
 
 ---
 
@@ -171,21 +175,62 @@ As interações geraram:
 Como evolução do MVP, foi adicionada a funcionalidade de **recuperação de senha simples e acessível**, pensada para não aumentar a complexidade do aplicativo.
 
 O fluxo de recuperação:
-- Utiliza linguagem clara e acolhedora;
-- Evita termos técnicos;
-- Orienta o usuário passo a passo;
-- Prioriza acessibilidade e segurança.
+
+- Utiliza linguagem clara e acolhedora
+- Evita termos técnicos
+- Orienta o usuário passo a passo
+- Prioriza acessibilidade e segurança
 
 Essa funcionalidade reforça a confiança do usuário sem comprometer a simplicidade do produto.
 
 ---
 
+## Evolução do MVP – Metas Financeiras Assistidas por IA
+Como evolução do MVP, foi adicionada a funcionalidade de **Metas Financeiras**, mantendo os princípios centrais do produto: simplicidade, acessibilidade e linguagem humana.
+
+### Objetivo da Funcionalidade
+Permitir que o usuário crie metas financeiras de forma simples e compreensível, recebendo apoio da IA para organização, acompanhamento e motivação ao longo do tempo.
+
+A funcionalidade não exige conhecimentos financeiros prévios e evita cálculos complexos por parte do usuário.
+
+### Funcionalidades da Meta Financeira
+O usuário pode:
+
+- Cadastrar uma meta informando nome, valor total, prazo e prioridade
+- Receber sugestão automática de quanto guardar por mês para atingir a meta
+- Visualizar uma barra de progresso com percentual concluído
+- Receber mensagens motivacionais para manter o engajamento
+- Editar o valor ou o prazo da meta
+- Pausar ou excluir metas conforme sua realidade financeira
+
+### Abordagem de IA
+A Inteligência Artificial atua como uma orientadora gentil, que:
+
+- Traduz valores e prazos em sugestões claras
+- Oferece incentivo sem cobrança ou julgamento
+- Adapta as recomendações quando o usuário altera a meta
+- Mantém comunicação empática e acessível
+
+### Alinhamento com a Proposta do Produto
+A funcionalidade de Metas Financeiras respeita os pilares do aplicativo:
+
+- Linguagem simples e acolhedora
+- Poucas informações por tela
+- Foco no essencial
+- Apoio emocional e motivacional
+- Acessibilidade como prioridade
+
+Essa evolução amplia o valor do produto sem descaracterizar o MVP original, demonstrando como o aplicativo pode crescer de forma responsável e centrada no usuário.
+
+---
+
 ## Reflexão sobre o Processo
 Durante o desenvolvimento deste projeto, foi possível aprender que:
-- Prompts claros geram resultados mais alinhados e úteis;
-- Pensar em produto antes da tecnologia facilita todo o processo;
-- A IA pode ser uma excelente parceira criativa quando bem orientada;
-- Vibe Coding estimula uma abordagem mais humana, acessível e estratégica no desenvolvimento de soluções.
+
+- Prompts claros geram resultados mais alinhados e úteis
+- Pensar em produto antes da tecnologia facilita todo o processo
+- A IA pode ser uma excelente parceira criativa quando bem orientada
+- Vibe Coding estimula uma abordagem mais humana, acessível e estratégica no desenvolvimento de soluções
 
 ---
 
@@ -196,7 +241,6 @@ O Vibe Coding se mostrou uma abordagem poderosa para explorar soluções inclusi
 
 
 ---
-
 
 
 ## Conteúdo original do desafio (DIO)
